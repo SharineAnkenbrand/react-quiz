@@ -2,6 +2,8 @@
 
 Take this quiz to test your knowledge about Tom Clancy's Jack Ryan thriller series.
 
+<img width="1438" alt="JackRyanQuiz" src="https://user-images.githubusercontent.com/82394283/124595775-baac9a80-de61-11eb-805e-59a9ecfafb32.png">
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
